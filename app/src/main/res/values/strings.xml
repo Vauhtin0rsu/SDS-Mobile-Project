@@ -1,0 +1,7 @@
+<resources>
+    <string name="project_name">SDS Mobile Project</string>
+    <string name="app_name">Super Epic Gym Sheet Application</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="instruction_main">Write down the name of your gym exercise and wanted specifications to add them to your gym sheet</string>
+</resources>
