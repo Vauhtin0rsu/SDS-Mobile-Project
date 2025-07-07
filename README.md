@@ -23,7 +23,7 @@ You copy the URL of this project and paste it to Android Studio:
 
 ![kuva](https://github.com/user-attachments/assets/54517659-0a9b-42f9-9e15-0da95dfdc44c)
 
-Wait for Android Studio to clone the project and you are good to go.
+Wait for Android Studio to clone the project and run the app on your device to test it out.
 
 
 
