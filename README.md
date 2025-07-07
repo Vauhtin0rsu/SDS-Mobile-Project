@@ -13,7 +13,18 @@ ___
 <h2>HOW TO RUN THIS PROJECT?</h2>
 
 To be able to test this program, you have to import the project to Android Studio on your own computer. 
-This happens by creating a new project with these specifications: 
+First you create a new project from version control:
+![kuva](https://github.com/user-attachments/assets/17330015-a0f3-4631-a774-639d945665d5)
 
-![kuva](https://github.com/user-attachments/assets/8b281d6c-2f3c-4c74-9799-31ca5dda4888)
+You copy the URL of this project and paste it to Android Studio: 
+![kuva](https://github.com/user-attachments/assets/a209767a-4226-4f40-8d29-44df913b5962)
+![kuva](https://github.com/user-attachments/assets/54517659-0a9b-42f9-9e15-0da95dfdc44c)
+
+Wait for Android Studio to clone the project and you are good to go.
+
+
+
+
+
+
 
