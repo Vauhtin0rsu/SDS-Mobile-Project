@@ -7,8 +7,11 @@ The main (and only) function of the software is to add users exercises to a gym 
 There are many features I would have wanted to add but ended up not committing to (for example switching the background color of different exercises on the sheet or having the checkbox actually do something).
 I will update the software on a later date as my own project unrelated to studies if I feel like it.
 
-For the course completion the repository has a learning diary where I reflect on topics I had to learn for this project and a video (as a mp4 file) showing how my application works. 
+For the course completion the repository has a learning diary where I reflect on topics I had to learn for this project. 
 Material from my exercises can be found here: https://github.com/Vauhtin0rsu/SDS-Mobile-Coursework
+
+The video showing how the application works can be found from this repo as a mp4 file and from here:
+https://youtube.com/shorts/XDvZCCCUric?feature=share
 
 ___
 <h2>HOW TO RUN THIS PROJECT?</h2>
